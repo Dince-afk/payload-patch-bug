@@ -1,0 +1,252 @@
+[
+    {
+        "language": "Bulgarisch",
+        "isActive": 1,
+        "languageNativeName": "български",
+        "languageIsoCode": "bg",
+        "countryIsoCode": "BG",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Прочетете ръководството",
+        "downloadButtonText": "Свалете ръководството"
+    },
+    {
+        "language": "Chinesisch",
+        "isActive": 1,
+        "languageNativeName": "中文",
+        "languageIsoCode": "zh",
+        "countryIsoCode": "CN",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "阅读手册",
+        "downloadButtonText": "下载手册"
+    },
+    {
+        "language": "Deutsch",
+        "isActive": 1,
+        "languageNativeName": "Deutsch",
+        "languageIsoCode": "de",
+        "countryIsoCode": "DE",
+        "titleText": "BMW Digitaler Innenspiegel",
+        "readButtonText": "Bedienungsanleitung lesen",
+        "downloadButtonText": "Bedienungsanleitung herunterladen"
+    },
+    {
+        "language": "Dänisch",
+        "isActive": 1,
+        "languageNativeName": "Dansk",
+        "languageIsoCode": "da",
+        "countryIsoCode": "DK",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Læs manual",
+        "downloadButtonText": "Download manual"
+    },
+    {
+        "language": "Englisch",
+        "isActive": 1,
+        "languageNativeName": "English",
+        "languageIsoCode": "en",
+        "countryIsoCode": "GB",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Read manual",
+        "downloadButtonText": "Download manual"
+    },
+    {
+        "language": "Estnisch",
+        "isActive": 1,
+        "languageNativeName": "Eesti",
+        "languageIsoCode": "et",
+        "countryIsoCode": "EE",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Loe juhendit",
+        "downloadButtonText": "Laadi juhend alla"
+    },
+    {
+        "language": "Finnisch",
+        "isActive": 1,
+        "languageNativeName": "Suomi",
+        "languageIsoCode": "fi",
+        "countryIsoCode": "FI",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Lue käyttöohje",
+        "downloadButtonText": "Lataa käyttöohje"
+    },
+    {
+        "language": "Französisch",
+        "isActive": 1,
+        "languageNativeName": "Français",
+        "languageIsoCode": "fr",
+        "countryIsoCode": "FR",
+        "titleText": "Rétroviseur intérieur numérique BMW",
+        "readButtonText": "Lire le manuel",
+        "downloadButtonText": "Télécharger le manuel"
+    },
+    {
+        "language": "Griechisch",
+        "isActive": 1,
+        "languageNativeName": "Ελληνικά",
+        "languageIsoCode": "el",
+        "countryIsoCode": "GR",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Διαβάστε το εγχειρίδιο",
+        "downloadButtonText": "Κατεβάστε το εγχειρίδιο"
+    },
+    {
+        "language": "Irisch",
+        "isActive": 1,
+        "languageNativeName": "Gaeilge",
+        "languageIsoCode": "ga",
+        "countryIsoCode": "IE",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Léigh an lámhleabhar",
+        "downloadButtonText": "Íoslódáil an lámhleabhar"
+    },
+    {
+        "language": "Italienisch",
+        "isActive": 1,
+        "languageNativeName": "Italiano",
+        "languageIsoCode": "it",
+        "countryIsoCode": "IT",
+        "titleText": "Retrovisore interno digitale BMW",
+        "readButtonText": "Leggi il manuale",
+        "downloadButtonText": "Scarica il manuale"
+    },
+    {
+        "language": "Kroatisch",
+        "isActive": 1,
+        "languageNativeName": "Hrvatski",
+        "languageIsoCode": "hr",
+        "countryIsoCode": "HR",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Pročitaj priručnik",
+        "downloadButtonText": "Preuzmi priručnik"
+    },
+    {
+        "language": "Lettisch",
+        "isActive": 1,
+        "languageNativeName": "Latviešu",
+        "languageIsoCode": "lv",
+        "countryIsoCode": "LV",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Lasīt rokasgrāmatu",
+        "downloadButtonText": "Lejupielādēt rokasgrāmatu"
+    },
+    {
+        "language": "Litauisch",
+        "isActive": 1,
+        "languageNativeName": "Lietuvių",
+        "languageIsoCode": "lt",
+        "countryIsoCode": "LT",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Skaityti vadovą",
+        "downloadButtonText": "Atsisiųsti vadovą"
+    },
+    {
+        "language": "Maltesisch",
+        "isActive": 1,
+        "languageNativeName": "Malti",
+        "languageIsoCode": "mt",
+        "countryIsoCode": "MT",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Aqra l-manwal",
+        "downloadButtonText": "Niżżel il-manwal"
+    },
+    {
+        "language": "Niederländisch",
+        "isActive": 1,
+        "languageNativeName": "Nederlands",
+        "languageIsoCode": "nl",
+        "countryIsoCode": "NL",
+        "titleText": "BMW digitale binnenspiegel",
+        "readButtonText": "Handleiding lezen",
+        "downloadButtonText": "Handleiding downloaden"
+    },
+    {
+        "language": "Polnisch",
+        "isActive": 1,
+        "languageNativeName": "Polski",
+        "languageIsoCode": "pl",
+        "countryIsoCode": "PL",
+        "titleText": "Cyfrowe lusterko wewnętrzne BMW",
+        "readButtonText": "Przeczytaj instrukcję",
+        "downloadButtonText": "Pobierz instrukcję"
+    },
+    {
+        "language": "Portugiesisch",
+        "isActive": 1,
+        "languageNativeName": "Português",
+        "languageIsoCode": "pt",
+        "countryIsoCode": "PT",
+        "titleText": "Retrovisor interior digital BMW",
+        "readButtonText": "Ler o manual",
+        "downloadButtonText": "Baixar o manual"
+    },
+    {
+        "language": "Rumänisch",
+        "isActive": 1,
+        "languageNativeName": "Română",
+        "languageIsoCode": "ro",
+        "countryIsoCode": "RO",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Citește manualul",
+        "downloadButtonText": "Descarcă manualul"
+    },
+    {
+        "language": "Schwedisch",
+        "isActive": 1,
+        "languageNativeName": "Svenska",
+        "languageIsoCode": "sv",
+        "countryIsoCode": "SE",
+        "titleText": "BMW digital innerspegel",
+        "readButtonText": "Läs manualen",
+        "downloadButtonText": "Ladda ner manualen"
+    },
+    {
+        "language": "Slowakisch",
+        "isActive": 1,
+        "languageNativeName": "Slovenčina",
+        "languageIsoCode": "sk",
+        "countryIsoCode": "SK",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Prečítať manuál",
+        "downloadButtonText": "Stiahnuť manuál"
+    },
+    {
+        "language": "Slowenisch",
+        "isActive": 1,
+        "languageNativeName": "Slovenščina",
+        "languageIsoCode": "sl",
+        "countryIsoCode": "SI",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Preberi navodila",
+        "downloadButtonText": "Prenesi navodila"
+    },
+    {
+        "language": "Spanisch",
+        "isActive": 1,
+        "languageNativeName": "Español",
+        "languageIsoCode": "es",
+        "countryIsoCode": "ES",
+        "titleText": "Retrovisor interior digital BMW",
+        "readButtonText": "Leer manual",
+        "downloadButtonText": "Descargar manual"
+    },
+    {
+        "language": "Tschechisch",
+        "isActive": 1,
+        "languageNativeName": "Čeština",
+        "languageIsoCode": "cs",
+        "countryIsoCode": "CZ",
+        "titleText": "Digitální vnitřní zpětné zrcátko BMW",
+        "readButtonText": "Přečíst návod",
+        "downloadButtonText": "Stáhnout návod"
+    },
+    {
+        "language": "Ungarisch",
+        "isActive": 1,
+        "languageNativeName": "Magyar",
+        "languageIsoCode": "hu",
+        "countryIsoCode": "HU",
+        "titleText": "BMW Digital Interior Mirror",
+        "readButtonText": "Kézikönyv olvasása",
+        "downloadButtonText": "Kézikönyv letöltése"
+    }
+]
